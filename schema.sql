@@ -1,0 +1,1 @@
+create table incidents(id serial primary key);

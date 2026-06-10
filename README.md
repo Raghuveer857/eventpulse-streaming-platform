@@ -1,1 +1,3 @@
-# eventpulse-streaming-platform
+# EventPulse – Real-Time City Incident Intelligence Platform
+
+Portfolio Data Engineering Project.
